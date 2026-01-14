@@ -1,3 +1,4 @@
+<br />
 <div align="center">
   <picture>
     <source media="(min-width: 601px)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&vCenter=false&repeat=false&width=115&height=34&lines=Designing">
@@ -15,6 +16,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&center=true&vCenter=false&repeat=false&width=275&height=34&lines=full-stack+applications" alt="Typing SVG">
   </picture>
   
+  <br />
   <picture>
     <source media="(min-width: 601px)" srcset="https://raw.githubusercontent.com/nikolay-govorov/transparent-png/master/1x1.png" height="0">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikolay-govorov/transparent-png/master/1x1.png" height="0">
