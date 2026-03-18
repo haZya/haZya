@@ -17,9 +17,9 @@
   </picture>
   
   <br />
+
   <picture>
-    <source media="(min-width: 601px)" srcset="https://raw.githubusercontent.com/nikolay-govorov/transparent-png/master/1x1.png" height="0">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikolay-govorov/transparent-png/master/1x1.png" height="0">
+    <source media="(min-width: 601px)" srcset="https://github.com/user-attachments/assets/63881efd-4275-4540-b637-146ed161d855" height="0">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&center=true&vCenter=false&repeat=false&width=275&height=34&lines=on+AWS+with+IaC" alt="Typing SVG">
   </picture>
 </div>
