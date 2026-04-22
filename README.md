@@ -51,13 +51,13 @@
 
 <div align="center">
   <a href="https://www.credly.com/badges/3a25dc02-285a-43b9-80cc-42d7f108591d/public_url" target="_blank">
-    <img width="156" height="156" alt="aws-certified-solutions-architect-professional" src="https://github.com/user-attachments/assets/5e5bee03-ec9a-409d-809b-f2bd7ea75a04" />
+    <img width="156" height="auto" alt="aws-certified-solutions-architect-professional" src="https://github.com/user-attachments/assets/5e5bee03-ec9a-409d-809b-f2bd7ea75a04" />
   </a>
   <a href="https://www.credly.com/badges/b41fa631-6361-4760-ad97-ff3f59671b45/public_url" target="_blank">
-    <img width="156" height="156" alt="aws-certified-generative-ai-developer-professional" src="https://github.com/user-attachments/assets/a15def22-75f0-4ee5-bb96-adcd116fc595" />
+    <img width="156" height="auto" alt="aws-certified-generative-ai-developer-professional" src="https://github.com/user-attachments/assets/a15def22-75f0-4ee5-bb96-adcd116fc595" />
   </a>
   <a href="https://www.credly.com/badges/c181c463-969c-4af5-846d-8f3b633507cf/public_url" target="_blank">
-    <img width="156" height="156" alt="aws-certified-generative-ai-developer-professional-early-adopter" src="https://github.com/user-attachments/assets/9346e8a2-fb08-4367-94b6-8a6de6416683" />
+    <img width="156" height="auto" alt="aws-certified-generative-ai-developer-professional-early-adopter" src="https://github.com/user-attachments/assets/9346e8a2-fb08-4367-94b6-8a6de6416683" />
   </a>
 </div>
 
