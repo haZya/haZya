@@ -73,7 +73,7 @@
   <tr>
     <td>
       <a href="https://hazya.dev">
-        <img alt="Fav tech icons" src="https://skillicons.dev/icons?perline=10&i=aws,react,next,express,prisma,git,github,gitlab,githubactions,js,ts,html,css,nodejs,cs,dotnet,jest,cloudflare,docker,terraform,graphql,tensorflow,tailwind,materialui,redux,mysql,postgres,redis,npm,postman,sentry,unity,vite,vitest,vscode,visualstudio" />
+        <img alt="Fav tech icons" src="https://skillicons.dev/icons?perline=10&i=aws,react,next,express,prisma,git,github,gitlab,githubactions,js,ts,html,css,nodejs,cs,dotnet,py,cloudflare,docker,kubernetes,terraform,graphql,tensorflow,tailwind,materialui,redux,jest,mysql,postgres,dynamodb,redis,npm,postman,grafana,sentry,unity,vite,vitest,vscode,visualstudio" />
       </a>
     </td>
   </tr>
